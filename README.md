@@ -7,9 +7,9 @@ This project is a simple ATM system that allows users to perform basic banking o
 
 ## Authors
 
-- **Sudenaz Aytekin** - 221504027
-- **Münire Alkan** - 221504011
-- **Rojbin Polat** - 221504035
+- Sudenaz Aytekin - 221504027
+- Münire Alkan - 221504011
+- Rojbin Polat - 221504035
 
 ## Features
 
