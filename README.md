@@ -1,5 +1,3 @@
-Elbette! İşte projeniz için detaylı bir README dosyası:
-
 ### README.md
 
 ```markdown
@@ -101,10 +99,3 @@ To run the compiled program, use the following command:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Bu README dosyası, projenizin tüm temel bilgilerini içerir ve kullanıcılara projenizi nasıl kuracaklarını ve kullanacaklarını açıklar. README dosyasını projenizin kök dizinine yerleştirerek GitHub'a yükleyebilirsiniz.
