@@ -5,6 +5,12 @@
 
 This project is a simple ATM system that allows users to perform basic banking operations such as viewing account balances, depositing funds, withdrawing cash, and managing different types of accounts.
 
+## Authors
+
+- **Sudenaz Aytekin** - 221504027
+- **Münire Alkan** - 221504011
+- **Rojbin Polat** - 221504035
+
 ## Features
 
 - **User Authentication:** Users must enter a valid account number and PIN to access the ATM.
